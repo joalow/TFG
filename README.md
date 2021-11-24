@@ -1,6 +1,6 @@
-# flutter_application_1
+# University Society
 
-A new Flutter project.
+A new Flutter project from a UCM TFG.
 
 ## Getting Started
 
